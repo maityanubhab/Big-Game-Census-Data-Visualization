@@ -19,3 +19,8 @@
 ## Dashboard look like :- 
 
 ![Screenshot](https://github.com/maityanubhab/Big-Game-Census-Data-Visualization/blob/main/dashboard.jpeg)
+
+
+### To enjoy the dashboard visualization download the [Power BI file](https://github.com/maityanubhab/Big-Game-Census-Data-Visualization/blob/main/Big%20Game%20Census.pbix)
+
+### For future suggetion to develop more insights in this dashboard suggest me through this [link](https://github.com/maityanubhab/Big-Game-Census-Data-Visualization/issues)
