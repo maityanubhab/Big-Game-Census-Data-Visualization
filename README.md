@@ -4,7 +4,7 @@
 
 <img align="right" width="250" height="250" src="https://github.com/maityanubhab/Big-Game-Census-Data-Visualization/blob/main/Documents/download.jfif">
 
-## Tech stack used : Power BI
+## Tech stack used : Power BI Desktop
 
 ## Insights:
 1) Player age, Count of years played and Player Weight correlated with each other.
